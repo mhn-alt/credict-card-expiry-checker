@@ -54,7 +54,7 @@ Credit-Card-Expiry-Checker/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/Credit-Card-Expiry-Checker.git
+git clone https://github.com/mhn-alt/credict-card-expiry-checker.git
 cd Credit-Card-Expiry-Checker
 ```
 
